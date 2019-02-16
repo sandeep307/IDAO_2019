@@ -1,5 +1,4 @@
-# IDAO_2019
-IDAO_2019
+# IDAO 2019
 
 Track-1 : For track-1, we submitted ensemble of lightgbm, catboost and Neural Network model.
 
